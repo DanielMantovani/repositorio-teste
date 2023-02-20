@@ -3,3 +3,4 @@
 
  Pode ser usado a qualquer momento para testar funções do Git.
  
+ Linha adicionada a partir do GitHub.
